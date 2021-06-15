@@ -1,0 +1,18 @@
+            body {background:url(https://thumbs.dreamstime.com/b/texturas-de-m%C3%A1rmol-blancas-la-piedra-104297022.jpg) ;
+            background-size: 1500px 800px;}
+            img {width: 400px;}
+            h1 {color: blue;
+            text-align: center;
+            }
+            h3{text-align: center;}
+            h4{text-align: center;}
+            #ThirdDiv { 
+                margin: 0px auto;
+                height: 600px;
+                width: 500px;  
+                background:url(https://images-na.ssl-images-amazon.com/images/I/51o%2BzOOHFxL._AC_SX425_.jpg);    
+            }
+            #SpanId {size: 18px;}
+            #SpanId {margin: 50px;}
+            #thirdDiv {padding: 50px;}
+            #thirdDiv {border: greenyellow;}
